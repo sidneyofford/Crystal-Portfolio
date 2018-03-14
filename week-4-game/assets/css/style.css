@@ -1,0 +1,39 @@
+body{
+  background-image: ("gold-bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Cormorant Upright', serif;
+  text-align: center;
+}
+
+
+#name{
+  padding-top: 15px;
+  font-family: 'Cormorant Upright', serif;
+}
+.paragraph{
+  font-family: 'Cormorant Upright', serif;
+  background-color:rgb(255, 255, 126);
+  margin-bottom: 10px;
+  font: 35px;
+  color: black;
+}
+
+
+.click{
+  width:80px;
+  height:80px;
+}
+
+.start {
+  background-color:red;
+  color: white;
+  font: 25px;
+  margin-bottom: 50px;
+}
+.addition{
+  font-size: 30px;
+}
+.total{
+  font-size: 30px;
+}
